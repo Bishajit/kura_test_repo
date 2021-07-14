@@ -8,5 +8,5 @@
 
 1. cat
 2. dog
-  -cat
-  -dog
+-cat
+-dog
